@@ -1,4 +1,4 @@
-# Code written by my teammate Eugene Mashkin
+# Code written by my teammate Aleksandr Zhelubenkov
 
 import json
 import os
