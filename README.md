@@ -5,7 +5,7 @@ The idea of the competition is to develop an algorithm that can successfully ans
 Participants are provided with test examples that can be used for validation and model learning.
 Competition solutions are sent to the automatic testing system and evaluated on the hidden set of questions.
 
-I took part in this competition with my Lamoda сolleagues Aleksandr Zhelubenkov, Evgeny Mashkin and Petr Ermakov. Together we took tenth place. We had really good test solvers, but but we didn’t have enough time to deal with plagiarism in essay templates.
+I took part in this competition with my Lamoda сolleagues Petr Ermakov, Aleksandr Zhelubenkov and Evgeny Mashkin. Together we took tenth place. We had really good test solvers, but but we didn’t have enough time to deal with plagiarism in essay templates.
 
 This repo is for some of my solvers for tests.
 
