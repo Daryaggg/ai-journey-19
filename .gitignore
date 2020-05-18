@@ -1,6 +1,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.ipynb_checkpoints/
 
 data/2grams-3.txt
 data/3grams-3.txt
